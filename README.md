@@ -1,7 +1,7 @@
 # Infomation
 
 ```js
-const HackerShader = {,
+const HackerShader = {
   Age: 14,
   Work: "Secondary school student",
   Mostlang: "NodeJS",
