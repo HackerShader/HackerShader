@@ -1,18 +1,15 @@
 # Infomation
 
-```json
-{
-  "Name": "HackerShader",
-  "Age": 13,
-  "Work": "Secondary school student",
-  "Mostlang": "NodeJS",
-  "Email": "Status2y2chighway@gmail.com"
+```js
+const HackerShader = {,
+  Age: 14,
+  Work: "Secondary school student",
+  Mostlang: "NodeJS",
+  Email: "Status2y2chighway@gmail.com"
 }
 ```
 
 # Programming languages
-
-Just like normal JS coder
 
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerShader&theme=tokyonight&layout=compact)
 
