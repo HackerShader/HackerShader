@@ -13,4 +13,4 @@ const HackerShader = {
 
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerShader&theme=tokyonight&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerShader&show_icons=true&theme=cobalt)
+![Main](https://github-readme-stats.vercel.app/api?username=HackerShader&show_icons=true&theme=github_dark_dimmed)
