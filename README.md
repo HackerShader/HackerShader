@@ -9,7 +9,7 @@ const HackerShader = {
 }
 ```
 
-# Programming languages
+# Statistic
 
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerShader&theme=tokyonight&layout=compact)
 
